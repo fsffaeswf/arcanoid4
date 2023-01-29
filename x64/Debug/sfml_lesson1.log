@@ -1,0 +1,6 @@
+﻿  main.cpp
+D:\Лиан\sfml_lesson1\ball.h(20,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\Лиан\sfml_lesson1\main.cpp(30,45): warning C4244: 'argument': conversion from 'const float' to 'unsigned int', possible loss of data
+D:\Лиан\sfml_lesson1\main.cpp(30,32): warning C4244: 'argument': conversion from 'const float' to 'unsigned int', possible loss of data
+D:\Лиан\sfml_lesson1\main.cpp(32,27): warning C4244: 'argument': conversion from 'const float' to 'unsigned int', possible loss of data
+  sfml_lesson1.vcxproj -> D:\Лиан\sfml_lesson1\x64\Debug\sfml_lesson1.exe
